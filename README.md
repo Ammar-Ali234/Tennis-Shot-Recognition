@@ -1,4 +1,25 @@
 # 🎾 Shot Classification App
+
+## 🏓 Output Examples
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Forehand</b></td>
+    <td align="center"><b>Serve</b></td>
+    <td align="center"><b>Backhand</b></td>
+  </tr>
+  <tr>
+    <td><video src="results/forehand.mp4" width="250" controls></video></td>
+    <td><video src="results/serve.mp4" width="250" controls></video></td>
+    <td><video src="results/backhand.mp4" width="250" controls></video></td>
+  </tr>
+</table>
+
+</div>
+
+
 ### Setup and Usage Instructions
 
 ---
