@@ -11,9 +11,9 @@
     <td align="center"><b>Backhand</b></td>
   </tr>
   <tr>
-    <td><video src="results/forehand.mp4" width="250" controls></video></td>
-    <td><video src="results/serve.mp4" width="250" controls></video></td>
-    <td><video src="results/backhand.mp4" width="250" controls></video></td>
+    <td><video src="results/forehand.gif" width="250" controls></video></td>
+    <td><video src="results/serve.gif" width="250" controls></video></td>
+    <td><video src="results/backhand.gif" width="250" controls></video></td>
   </tr>
 </table>
 
