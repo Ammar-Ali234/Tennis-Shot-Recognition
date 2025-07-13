@@ -2,22 +2,13 @@
 
 ## 🏓 Output Examples
 
-<div align="center">
+### Forehand | Serve | Backhand
 
-<table>
-  <tr>
-    <td align="center"><b>Forehand</b></td>
-    <td align="center"><b>Serve</b></td>
-    <td align="center"><b>Backhand</b></td>
-  </tr>
-  <tr>
-    <td><video src="results/forehand.gif" width="250" controls></video></td>
-    <td><video src="results/serve.gif" width="250" controls></video></td>
-    <td><video src="results/backhand.gif" width="250" controls></video></td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="results/forehand.gif" width="250"/>
+  <img src="results/serve.gif" width="250"/>
+  <img src="results/backhand.gif" width="250"/>
+</p>
 
 
 ### Setup and Usage Instructions
